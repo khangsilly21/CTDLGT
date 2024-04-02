@@ -1,3 +1,5 @@
+// thuật toán Kadane dùng để tìm dãy con liên tiếp có tổng lớn nhất của 1 dãy cho trước
+// Ý tưởng là dúng 2 biến: tổng lớn nhất kết thúc tại số đang xét(cur_sum) và tổng lớn nhất(max_sum)
 #include <bits/stdc++.h>
 using namespace std;
 
